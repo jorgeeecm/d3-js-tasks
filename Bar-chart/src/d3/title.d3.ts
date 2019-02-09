@@ -8,5 +8,5 @@ const card = select("#root")
 // This card will contain a title for our visualization.
 card
   .append("h1")
-    .text("Basic Map with D3.js");
+    .text("AVG Temps in Malaga 2018");
 
