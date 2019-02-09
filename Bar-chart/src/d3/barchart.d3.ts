@@ -81,3 +81,18 @@ axisGroup
   .append("g")
   .attr("transform", `translate(0, ${height})`)
   .call(d3.axisBottom(xScalePos));
+
+ // text label for the x axis
+axisGroup
+  .append("text")             
+  .attr("transform", `translate(${width/2}, ${height + padding*0.8})`)
+  .text("Month");
+
+// text label for y axis
+axisGroup
+  .append("text")
+  .attr("transform", "rotate(-90)")
+  .attr("y", 0 - padding)
+  .attr("x",0 - (height * 0.7))
+  .attr("dy", "1em")
+  .text("Temp in Degrees");    
