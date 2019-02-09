@@ -1,1 +1,0 @@
-Bar chart with the averages temperatures in Malaga during 2018
