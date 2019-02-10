@@ -73,7 +73,8 @@ const colorScale = (avgwage: number)  => interpolatePuRd(wageLogScale(avgwage));
 
 Promise.all([
   json(require("../data/europe.geojson")),
-  json(require("../data/AverageWages2017EU.json"))
+  //json(require("../data/AverageWages2017EU.json")
+  csv(require("../data/AverageWages2017EU.csv"))
 ]).then(onDataReady as (value) => void);
 
 

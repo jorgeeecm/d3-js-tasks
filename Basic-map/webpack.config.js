@@ -90,7 +90,7 @@ module.exports = {
       // Possible Data sources as files.
       {
         type: "javascript/auto",
-        test: /\.(geojson|topojson|json|tsv)?$/,
+        test: /\.(geojson|topojson|json|tsv|csv)?$/,
         include: /data/,
         loader: "file-loader",
         options: {
