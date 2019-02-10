@@ -1,0 +1,1 @@
+Basic Map of the averages wages in the European Union contries designed using 3D.js.
