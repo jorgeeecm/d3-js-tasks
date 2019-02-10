@@ -1,0 +1,209 @@
+[
+  {
+    "LOCATION": "Austria",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 50348
+  },
+  {
+    "LOCATION": "Belgium",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 49674
+  },
+  {
+    "LOCATION": "Czech Republic",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 25372
+  },
+  {
+    "LOCATION": "Denmark",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 51466
+  },
+  {
+    "LOCATION": "Finland",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 42963
+  },
+  {
+    "LOCATION": "France",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 43755
+  },
+  {
+    "LOCATION": "Germany",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 47585
+  },
+  {
+    "LOCATION": "Greece",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 26064
+  },
+  {
+    "LOCATION": "Hungary",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 22575
+  },
+  {
+    "LOCATION": "Ireland",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 47652
+  },
+  {
+    "LOCATION": "Italy",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 36658
+  },
+  {
+    "LOCATION": "Luxembourg",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 63062
+  },
+  {
+    "LOCATION": "Netherlands",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 52876
+  },
+  {
+    "LOCATION": "Poland",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 27046
+  },
+  {
+    "LOCATION": "Portugal",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 25366
+  },
+  {
+    "LOCATION": "Slovakia",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 24327
+  },
+  {
+    "LOCATION": "Spain",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 38507
+  },
+  {
+    "LOCATION": "Sweden",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 42392
+  },
+  {
+    "LOCATION": "United Kingdom",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 43731
+  },
+  {
+    "LOCATION": "Estonia",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 24335
+  },
+  {
+    "LOCATION": "Slovenia",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 34932
+  },
+  {
+    "LOCATION": "Latvia",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 23683
+  },
+  {
+    "LOCATION": "Lithuania",
+    "INDICATOR": "AVWAGE",
+    "SUBJECT": "TOT",
+    "MEASURE": "USD",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 24286
+  }
+]
